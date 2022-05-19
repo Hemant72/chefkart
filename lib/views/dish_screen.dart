@@ -191,7 +191,7 @@ class DishScreen extends StatelessWidget {
               child: Row(
                 children: [
                   const Text("Spices(10)",
-                      style:
+                      style: 
                           TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
                   const SizedBox(
                     width: 10,
